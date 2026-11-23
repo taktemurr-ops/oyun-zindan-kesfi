@@ -16,7 +16,7 @@ dependencies:
   strateji_motoru:
     git:
       url: https://github.com/taktemurr-ops/strateji-motoru
-      ref: 50cbde441be2a23df0ec379daf08da43ea81934c
+      ref: 1c6bc9be1eaddc858a6d5c4ba40f392a5647b2ee
 
 dev_dependencies:
   flutter_test:
